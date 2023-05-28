@@ -1,7 +1,6 @@
-# Blender v2.90.1 OBJ File: 'Caliburn.blend'
+# Blender v2.90.1 OBJ File: ''
 # www.blender.org
-mtllib Grille.mtl
-o Grille_submesh_07_LOD_1.003
+o Grille
 v -25.597429 -18.760361 104.361610
 v -29.729139 -18.732635 103.326607
 v -29.672949 -15.940710 103.304588
